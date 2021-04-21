@@ -1,3 +1,4 @@
 # myTest2
 
-21 April 2021
+Will develop an application called TrueBeauty
+It is an E-commerce website
